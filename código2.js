@@ -1,5 +1,5 @@
 //Pedro Marrufo Fernández.
-
+//Ejercicio
 var n = 5
 var rangoLi = 1
 var rangoLs = 10
