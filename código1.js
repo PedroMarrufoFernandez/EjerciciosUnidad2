@@ -1,4 +1,5 @@
 //Pedro Marrufo Fernández.
+//ejercicio1
 var num = 4
 var potencia = 2
 
